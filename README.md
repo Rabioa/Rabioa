@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rabioa
+- 👀 I’m interested in making a otome game
+- 🌱 I’m currently learning how to use git hub
+- 💞️ I’m looking to collaborate on making said otome game.
